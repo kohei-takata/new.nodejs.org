@@ -1,13 +1,13 @@
 {
     "title": "Node.js",
     "author": "Node.js Foundation",
-    "url": "https://nodejs.org/en/",
-    "locale": "en",
-    "scrollToTop": "Scroll to top",
-    "reportNodeIssue": "Report Node.js issue",
-    "reportWebsiteIssue": "Report website issue",
+    "url": "https://nodejs.org/ja/",
+    "locale": "ja",
+    "scrollToTop": "上に戻る",
+    "reportNodeIssue": "Node.js の問題を報告する",
+    "reportWebsiteIssue": "ウェブサイトの問題を報告する",
     "by": "by",
-    "all-downloads": "All download options",
+    "all-downloads": "全てのダウンロードオプション",
     "feeds": [
         {
             "link": "feed/blog.xml",
@@ -26,49 +26,49 @@
             "text": "Node.js TSC meeting minutes"
         }
     ],
-    "home": { "text": "Home" },
+    "home": { "text": "ホーム" },
     "about": {
         "link": "about",
-        "text": "About",
+        "text": "概要",
         "governance": {
             "link": "about/governance",
-            "text": "Governance"
+            "text": "ガバナンス"
         },
         "workinggroups": {
             "link": "about/working-groups",
-            "text": "Working Groups"
+            "text": "ワーキンググループ"
         },
         "releases": {
             "link": "about/releases",
-            "text": "Releases"
+            "text": "リリース"
         },
         "resources": {
             "link": "about/resources",
-            "text": "Resources"
+            "text": "リソース"
         }
     },
     "download": {
         "link": "download",
-        "text": "Downloads",
+        "text": "ダウンロード",
         "releases": {
             "link": "download/releases",
-            "text": "Previous Releases"
+            "text": "以前のバージョン"
         },
         "package-manager": {
             "link": "download/package-manager",
-            "text": "Installing Node.js via package manager"
+            "text": "パッケージマネージャから Node.js をインストールする"
         }
     },
     "docs": {
         "link": "docs",
-        "text": "Docs",
+        "text": "ドキュメント",
         "es6": {
             "link": "docs/es6",
-            "text": "ES6 in Node.js"
+            "text": "Node.js における ES6"
         },
         "faq": {
             "link": "docs/faq",
-            "text": "FAQ"
+            "text": "よくある質問"
         },
         "api": {
             "link": "/api/",
@@ -77,51 +77,51 @@
     },
     "foundation": {
         "link": "foundation",
-        "text": "Foundation",
+        "text": "ファウンデーション",
         "members": {
             "link": "foundation/members",
-            "text": "Members"
+            "text": "メンバー"
         },
         "tsc": {
             "link": "foundation/tsc",
-            "text": "Technical Governance"
+            "text": "テクニカルガバナンス"
         },
         "itn": {
              "link": "foundation/in-the-news",
-             "text": "In the News"
+             "text": "ニュース"
         },
         "announce": {
             "link": "foundation/announcements",
-            "text": "Announcements"
+            "text": "お知らせ"
         }
     },
     "getinvolved": {
         "link": "get-involved",
-        "text": "Get Involved",
+        "text": "一翼を担う",
         "contribute": {
             "link": "get-involved/contribute",
-            "text": "Contribute"
+            "text": "貢献"
         },
         "development": {
             "link": "get-involved/development",
-            "text": "Development"
+            "text": "開発"
         },
         "code-and-learn": {
             "link": "get-involved/code-and-learn",
-            "text": "Code + Learn"
+            "text": "コード + 学習"
         }
     },
-    "trademark"  : { "link": "about/trademark", "text": "Trademark" },
-    "security"   : { "link": "security",        "text": "Security" },
-    "blog"       : { "link": "blog",            "text": "News" },
+    "trademark"  : { "link": "about/trademark", "text": "商標" },
+    "security"   : { "link": "security",        "text": "セキュリティ" },
+    "blog"       : { "link": "blog",            "text": "ブログ" },
 
     "releases": {
-        "title": "Release History",
-        "downloads": "Downloads"
+        "title": "リリースの履歴",
+        "downloads": "ダウンロード"
     },
     "links": {
         "pages": {
-            "changelog": "Changelog"
+            "changelog": "変更履歴"
         }
     }
 }
